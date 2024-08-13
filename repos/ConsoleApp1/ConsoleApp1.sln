@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "ConsoleApp1.Installer", "..\ConsoleApp1.Installer\ConsoleApp1.Installer.wixproj", "{D1021C4D-6F84-4557-B860-5B83E6C534AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Debug|x64.Build.0 = Debug|Any CPU
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Release|x64.ActiveCfg = Release|x64
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Release|x64.Build.0 = Release|x64
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D9A0C5A-10F4-4BF6-96CD-F7A708CC2755}.Release|x86.Build.0 = Release|Any CPU
+		{D1021C4D-6F84-4557-B860-5B83E6C534AE}.Debug|x64.ActiveCfg = Debug|x64
+		{D1021C4D-6F84-4557-B860-5B83E6C534AE}.Debug|x86.ActiveCfg = Debug|x86
+		{D1021C4D-6F84-4557-B860-5B83E6C534AE}.Release|x64.ActiveCfg = Release|x86
+		{D1021C4D-6F84-4557-B860-5B83E6C534AE}.Release|x86.ActiveCfg = Release|x86
+		{D1021C4D-6F84-4557-B860-5B83E6C534AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8101604-0F71-4959-97F2-5B50D51A24DB}
+	EndGlobalSection
+EndGlobal

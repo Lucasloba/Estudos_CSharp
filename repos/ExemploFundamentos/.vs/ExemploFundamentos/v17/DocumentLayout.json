@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DPC\\source\\repos\\ExemploFundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247E75AE-9095-41F2-81DC-A94EC6D5A16D}|ExemploFundamentos.csproj|c:\\users\\dpc\\source\\repos\\exemplofundamentos\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247E75AE-9095-41F2-81DC-A94EC6D5A16D}|ExemploFundamentos.csproj|solutionrelative:models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E75AE-9095-41F2-81DC-A94EC6D5A16D}|ExemploFundamentos.csproj|c:\\users\\dpc\\source\\repos\\exemplofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247E75AE-9095-41F2-81DC-A94EC6D5A16D}|ExemploFundamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\DPC\\source\\repos\\ExemploFundamentos\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\DPC\\source\\repos\\ExemploFundamentos\\Models\\Calculadora.cs",
+              "RelativeToolTip": "Models\\Calculadora.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-29T00:06:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DPC\\source\\repos\\ExemploFundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DPC\\source\\repos\\ExemploFundamentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T22:16:48.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

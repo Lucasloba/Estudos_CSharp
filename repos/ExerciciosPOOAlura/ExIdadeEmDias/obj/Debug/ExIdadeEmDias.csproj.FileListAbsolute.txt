@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\bin\Debug\ExIdadeEmDias.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\bin\Debug\ExIdadeEmDias.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\bin\Debug\ExIdadeEmDias.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\obj\Debug\ExIdadeEmDias.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\obj\Debug\ExIdadeEmDias.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\obj\Debug\ExIdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\obj\Debug\ExIdadeEmDias.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeEmDias\obj\Debug\ExIdadeEmDias.pdb

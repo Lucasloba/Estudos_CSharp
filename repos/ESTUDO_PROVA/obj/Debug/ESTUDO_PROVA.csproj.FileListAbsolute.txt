@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ESTUDO_PROVA\bin\Debug\ESTUDO_PROVA.exe.config
+C:\Users\DPC\source\repos\ESTUDO_PROVA\bin\Debug\ESTUDO_PROVA.exe
+C:\Users\DPC\source\repos\ESTUDO_PROVA\bin\Debug\ESTUDO_PROVA.pdb
+C:\Users\DPC\source\repos\ESTUDO_PROVA\obj\Debug\ESTUDO_PROVA.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ESTUDO_PROVA\obj\Debug\ESTUDO_PROVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ESTUDO_PROVA\obj\Debug\ESTUDO_PROVA.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ESTUDO_PROVA\obj\Debug\ESTUDO_PROVA.exe
+C:\Users\DPC\source\repos\ESTUDO_PROVA\obj\Debug\ESTUDO_PROVA.pdb

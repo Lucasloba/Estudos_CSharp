@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\bin\Debug\StreamParaUmArquivo.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\bin\Debug\StreamParaUmArquivo.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\bin\Debug\StreamParaUmArquivo.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\obj\Debug\StreamParaUmArquivo.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\obj\Debug\StreamParaUmArquivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\obj\Debug\StreamParaUmArquivo.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\obj\Debug\StreamParaUmArquivo.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\StreamParaUmArquivo\obj\Debug\StreamParaUmArquivo.pdb

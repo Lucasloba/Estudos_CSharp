@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\bin\Debug\ExLadosPoligono.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\bin\Debug\ExLadosPoligono.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\bin\Debug\ExLadosPoligono.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\obj\Debug\ExLadosPoligono.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\obj\Debug\ExLadosPoligono.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\obj\Debug\ExLadosPoligono.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\obj\Debug\ExLadosPoligono.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosPoligono\obj\Debug\ExLadosPoligono.pdb

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\bin\Debug\ExPesoIdeal.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\bin\Debug\ExPesoIdeal.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\bin\Debug\ExPesoIdeal.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\obj\Debug\ExPesoIdeal.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\obj\Debug\ExPesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\obj\Debug\ExPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\obj\Debug\ExPesoIdeal.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPesoIdeal\obj\Debug\ExPesoIdeal.pdb

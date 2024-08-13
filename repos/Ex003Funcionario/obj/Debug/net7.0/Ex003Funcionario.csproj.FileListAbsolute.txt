@@ -1,0 +1,14 @@
+C:\Users\DPC\source\repos\Ex003Funcionario\bin\Debug\net7.0\Ex003Funcionario.exe
+C:\Users\DPC\source\repos\Ex003Funcionario\bin\Debug\net7.0\Ex003Funcionario.deps.json
+C:\Users\DPC\source\repos\Ex003Funcionario\bin\Debug\net7.0\Ex003Funcionario.runtimeconfig.json
+C:\Users\DPC\source\repos\Ex003Funcionario\bin\Debug\net7.0\Ex003Funcionario.dll
+C:\Users\DPC\source\repos\Ex003Funcionario\bin\Debug\net7.0\Ex003Funcionario.pdb
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.AssemblyInfoInputs.cache
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.AssemblyInfo.cs
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.dll
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\refint\Ex003Funcionario.dll
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.pdb
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\Ex003Funcionario.genruntimeconfig.cache
+C:\Users\DPC\source\repos\Ex003Funcionario\obj\Debug\net7.0\ref\Ex003Funcionario.dll

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\bin\Debug\Ex1.10LivroAlg.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\bin\Debug\Ex1.10LivroAlg.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\bin\Debug\Ex1.10LivroAlg.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\obj\Debug\Ex1.10LivroAlg.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\obj\Debug\Ex1.10LivroAlg.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\obj\Debug\Ex1.10LivroAlg.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\obj\Debug\Ex1.10LivroAlg.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex1.10LivroAlg\obj\Debug\Ex1.10LivroAlg.pdb

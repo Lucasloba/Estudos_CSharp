@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\bin\Debug\GuidECorrelatos.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\bin\Debug\GuidECorrelatos.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\bin\Debug\GuidECorrelatos.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\obj\Debug\GuidECorrelatos.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\obj\Debug\GuidECorrelatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\obj\Debug\GuidECorrelatos.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\obj\Debug\GuidECorrelatos.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\GuidECorrelatos\obj\Debug\GuidECorrelatos.pdb

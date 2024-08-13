@@ -1,0 +1,2 @@
+C:\Users\DPC\source\repos\AttributeBrowserAddin\obj\Debug\AttributeBrowserAddin.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\AttributeBrowserAddin\obj\Debug\AttributeBrowserAddin.csproj.CoreCompileInputs.cache

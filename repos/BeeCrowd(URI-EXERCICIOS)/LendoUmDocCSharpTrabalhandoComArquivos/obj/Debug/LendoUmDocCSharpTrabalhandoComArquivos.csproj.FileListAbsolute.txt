@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\bin\Debug\LendoUmDocCSharpTrabalhandoComArquivos.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\bin\Debug\LendoUmDocCSharpTrabalhandoComArquivos.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\bin\Debug\LendoUmDocCSharpTrabalhandoComArquivos.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\obj\Debug\LendoUmDocCSharpTrabalhandoComArquivos.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\obj\Debug\LendoUmDocCSharpTrabalhandoComArquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\obj\Debug\LendoUmDocCSharpTrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\obj\Debug\LendoUmDocCSharpTrabalhandoComArquivos.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\LendoUmDocCSharpTrabalhandoComArquivos\obj\Debug\LendoUmDocCSharpTrabalhandoComArquivos.pdb

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\bin\Debug\TesteConstrutor.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\bin\Debug\TesteConstrutor.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\bin\Debug\TesteConstrutor.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\obj\Debug\TesteConstrutor.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\obj\Debug\TesteConstrutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\obj\Debug\TesteConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\obj\Debug\TesteConstrutor.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteConstrutor\obj\Debug\TesteConstrutor.pdb

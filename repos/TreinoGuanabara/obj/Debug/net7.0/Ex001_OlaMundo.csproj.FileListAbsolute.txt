@@ -1,0 +1,14 @@
+C:\Users\DPC\source\repos\TreinoGuanabara\bin\Debug\net7.0\Ex001_OlaMundo.exe
+C:\Users\DPC\source\repos\TreinoGuanabara\bin\Debug\net7.0\Ex001_OlaMundo.deps.json
+C:\Users\DPC\source\repos\TreinoGuanabara\bin\Debug\net7.0\Ex001_OlaMundo.runtimeconfig.json
+C:\Users\DPC\source\repos\TreinoGuanabara\bin\Debug\net7.0\Ex001_OlaMundo.dll
+C:\Users\DPC\source\repos\TreinoGuanabara\bin\Debug\net7.0\Ex001_OlaMundo.pdb
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.AssemblyInfoInputs.cache
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.AssemblyInfo.cs
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.dll
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\refint\Ex001_OlaMundo.dll
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.pdb
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\Ex001_OlaMundo.genruntimeconfig.cache
+C:\Users\DPC\source\repos\TreinoGuanabara\obj\Debug\net7.0\ref\Ex001_OlaMundo.dll

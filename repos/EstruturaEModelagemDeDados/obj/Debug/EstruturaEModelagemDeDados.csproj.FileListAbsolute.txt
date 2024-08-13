@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\bin\Debug\EstruturaEModelagemDeDados.exe.config
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\bin\Debug\EstruturaEModelagemDeDados.exe
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\bin\Debug\EstruturaEModelagemDeDados.pdb
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\obj\Debug\EstruturaEModelagemDeDados.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\obj\Debug\EstruturaEModelagemDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\obj\Debug\EstruturaEModelagemDeDados.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\obj\Debug\EstruturaEModelagemDeDados.exe
+C:\Users\DPC\source\repos\EstruturaEModelagemDeDados\obj\Debug\EstruturaEModelagemDeDados.pdb

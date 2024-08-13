@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\bin\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.exe.config
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\bin\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.exe
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\bin\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.pdb
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\obj\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\obj\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\obj\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\obj\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.exe
+C:\Users\DPC\source\repos\ByteBankHI\ByteBank(MaoNaMassa)ConstrutoresEProtected\obj\Debug\ByteBank(MaoNaMassa)ConstrutoresEProtected.pdb

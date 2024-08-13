@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\bin\Debug\ExOrdemCrescente.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\bin\Debug\ExOrdemCrescente.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\bin\Debug\ExOrdemCrescente.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\obj\Debug\ExOrdemCrescente.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\obj\Debug\ExOrdemCrescente.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\obj\Debug\ExOrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\obj\Debug\ExOrdemCrescente.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExOrdemCrescente\obj\Debug\ExOrdemCrescente.pdb

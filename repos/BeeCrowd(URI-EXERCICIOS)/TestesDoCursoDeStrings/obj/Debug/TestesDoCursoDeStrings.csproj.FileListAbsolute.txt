@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\bin\Debug\TestesDoCursoDeStrings.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\bin\Debug\TestesDoCursoDeStrings.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\bin\Debug\TestesDoCursoDeStrings.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\obj\Debug\TestesDoCursoDeStrings.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\obj\Debug\TestesDoCursoDeStrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\obj\Debug\TestesDoCursoDeStrings.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\obj\Debug\TestesDoCursoDeStrings.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TestesDoCursoDeStrings\obj\Debug\TestesDoCursoDeStrings.pdb

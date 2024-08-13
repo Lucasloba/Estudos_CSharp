@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\bin\Debug\ExLadosTriangulo.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\bin\Debug\ExLadosTriangulo.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\bin\Debug\ExLadosTriangulo.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\obj\Debug\ExLadosTriangulo.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\obj\Debug\ExLadosTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\obj\Debug\ExLadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\obj\Debug\ExLadosTriangulo.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExLadosTriangulo\obj\Debug\ExLadosTriangulo.pdb

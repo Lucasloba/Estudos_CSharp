@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\bin\Debug\06-ByteBank(MaoNaMassa).exe.config
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\bin\Debug\06-ByteBank(MaoNaMassa).exe
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\bin\Debug\06-ByteBank(MaoNaMassa).pdb
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\obj\Debug\06-ByteBank(MaoNaMassa).csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\obj\Debug\06-ByteBank(MaoNaMassa).csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\obj\Debug\06-ByteBank(MaoNaMassa).csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\obj\Debug\06-ByteBank(MaoNaMassa).exe
+C:\Users\DPC\source\repos\ByteBank\06-ByteBank(MaoNaMassa)\obj\Debug\06-ByteBank(MaoNaMassa).pdb

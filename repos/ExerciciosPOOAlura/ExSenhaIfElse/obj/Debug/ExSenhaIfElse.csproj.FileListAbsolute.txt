@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\bin\Debug\ExSenhaIfElse.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\bin\Debug\ExSenhaIfElse.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\bin\Debug\ExSenhaIfElse.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\obj\Debug\ExSenhaIfElse.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\obj\Debug\ExSenhaIfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\obj\Debug\ExSenhaIfElse.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\obj\Debug\ExSenhaIfElse.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExSenhaIfElse\obj\Debug\ExSenhaIfElse.pdb

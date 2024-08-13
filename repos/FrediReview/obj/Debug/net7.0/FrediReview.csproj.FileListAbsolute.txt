@@ -1,0 +1,14 @@
+C:\Users\DPC\source\repos\FrediReview\bin\Debug\net7.0\FrediReview.exe
+C:\Users\DPC\source\repos\FrediReview\bin\Debug\net7.0\FrediReview.deps.json
+C:\Users\DPC\source\repos\FrediReview\bin\Debug\net7.0\FrediReview.runtimeconfig.json
+C:\Users\DPC\source\repos\FrediReview\bin\Debug\net7.0\FrediReview.dll
+C:\Users\DPC\source\repos\FrediReview\bin\Debug\net7.0\FrediReview.pdb
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.AssemblyInfoInputs.cache
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.AssemblyInfo.cs
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.dll
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\refint\FrediReview.dll
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.pdb
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\FrediReview.genruntimeconfig.cache
+C:\Users\DPC\source\repos\FrediReview\obj\Debug\net7.0\ref\FrediReview.dll

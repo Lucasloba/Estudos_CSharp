@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CursoCSharp.Fundamentos {
+    internal class OperadoresAtribuicao {
+        public static void Executar() {
+            var num1 = 3; //poderia ser "int" ao ivés de "var"
+            num1 = 7; // num a frente substitui falor. era 3 agr é 7
+            num1 += 10; //num1 = num1 + 10; (atrb aditiva "+=") "+=" vc define o quanto adiciona 
+            num1 -= 3; // num1 = num1 - 3;  (atrb subtrativa "-=")          "
+            num1 *= 5; //num1 = num1 * 5;   (atrb multiplicativa "*=")      "
+            num1 /= 2; // num1 = num1 / 2;  (atrb divisiva "/=")            "
+
+            Console.WriteLine(num1);
+
+            int a = 1;
+            int b = a;
+
+            a++; // a = a + 1; (operador de incremento) a++ (adiciona 1) 
+            b--; // b = b - 1; (operador de decremento)
+            Console.WriteLine($"{a} {b}");
+
+            // Não se preocupe com o código
+            dynamic c = new System.Dynamic.ExpandoObject();
+            c.nome = "João";
+
+            dynamic d = c;
+            d.nome = "Maria";
+
+            Console.WriteLine(c.cnome);
+
+        }  
+    }
+}

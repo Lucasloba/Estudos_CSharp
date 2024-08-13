@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	
+	<!-- Give product a unique ID per platform -->
+	<?if $(var.Platform)=x64 ?>
+	<?define ProductCode = "{9DCB0A1B-C7A3-4778-A6F0-4740B684F1C3}"?>
+	<?else?>
+	<?define ProductCode = "{7E5824A5-B13C-4E6C-95E9-B0CE8943485B}"?>
+	<?endif?>
+	
+	<!-- Fixed upgrade Id -->
+	<?define UpgradeCode = "{B9B810DB-E672-4459-9D00-0418313FEC2C}"?>
+	
+	<!-- Define main product -->
+	<Product Id="$(var.ProductCode)" 
+			 Name="!(loc.ProductName_$(var.Platform))" 
+	         Language="!(loc.Language)" 
+			 Version="$(var.BuildVersion)" 
+			 Manufacturer="!(loc.Company)" 
+			 UpgradeCode="$(var.UpgradeCode)">
+		
+		<!-- Provide package details -->
+		<Package InstallerVersion="200" 
+				 Compressed="yes" 
+				 InstallScope="perMachine"
+				 Platform="$(var.Platform)"
+				 Manufacturer="!(loc.Company)"
+				 Description="!(loc.Description)"
+				 Keywords="!(loc.Keywords)"
+				 Comments="!(loc.Comments)"
+				 Languages="!(loc.Language)"
+				 />
+
+		<!-- Downgrade error message -->
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeErrorMessage)" />
+		
+		<!-- Include .cab file into .msi file-->
+		<MediaTemplate
+		  EmbedCab="yes"
+		  />
+
+		<!-- Define main app icon -->
+		<Icon Id="icon.ico" SourceFile="$(var.ConsoleApp1.ProjectDir)\app.ico" />
+
+		<!-- Use the icon for this installer (shows up in Add/Remove programs) -->
+		<Property Id="ARPPRODUCTICON">icon.ico</Property>
+		<!-- Help/Support website (shows in the Add/Remove programs) -->
+		<Property Id="ARPURLINFOABOUT">https://www.davidpintoconsultoria.com.br/</Property>
+
+		<!-- Create a basic UI for the installer -->
+		<UIRef Id="WixUI_Minimal" />
+		
+		<!-- Change the installer UI background images -->
+		<WixVariable Id="WixUILicenseRtf" Value="$(var.ProjectDir)\Assets\License.rtf" />
+		<WixVariable Id="WixUIDialogBmp" Value="$(var.ProjectDir)\Assets\Background.bmp" />
+		<WixVariable Id="WixUIBannerBmp" Value="$(var.ProjectDir)\Assets\Banner.bmp" />
+		
+		<!-- Define components, shortcuts, files etc... for instaler -->
+		<Feature Id="ProductFeature" Title="ConsoleApp" Level="1">
+			
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentGroupRef Id="PublishedComponents" />
+			
+		</Feature>
+		
+	</Product>
+
+</Wix>

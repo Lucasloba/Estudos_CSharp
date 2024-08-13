@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\bin\Debug\ExPorcentagemVotos.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\bin\Debug\ExPorcentagemVotos.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\bin\Debug\ExPorcentagemVotos.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\obj\Debug\ExPorcentagemVotos.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\obj\Debug\ExPorcentagemVotos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\obj\Debug\ExPorcentagemVotos.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\obj\Debug\ExPorcentagemVotos.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExPorcentagemVotos\obj\Debug\ExPorcentagemVotos.pdb

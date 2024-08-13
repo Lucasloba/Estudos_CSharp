@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\bin\Debug\BeeCrowd(URI-EXERCICIOS).exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\bin\Debug\BeeCrowd(URI-EXERCICIOS).exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\bin\Debug\BeeCrowd(URI-EXERCICIOS).pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\obj\Debug\BeeCrowd(URI-EXERCICIOS).csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\obj\Debug\BeeCrowd(URI-EXERCICIOS).csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\obj\Debug\BeeCrowd(URI-EXERCICIOS).csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\obj\Debug\BeeCrowd(URI-EXERCICIOS).exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\BeeCrowd(URI-EXERCICIOS)\obj\Debug\BeeCrowd(URI-EXERCICIOS).pdb

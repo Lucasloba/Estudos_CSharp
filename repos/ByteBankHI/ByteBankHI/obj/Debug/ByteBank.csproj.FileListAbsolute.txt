@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\bin\Debug\ByteBankHI.exe.config
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\bin\Debug\ByteBankHI.exe
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\bin\Debug\ByteBankHI.pdb
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\obj\Debug\ByteBankHI.exe
+C:\Users\DPC\source\repos\ByteBankHI\ByteBankHI\obj\Debug\ByteBankHI.pdb

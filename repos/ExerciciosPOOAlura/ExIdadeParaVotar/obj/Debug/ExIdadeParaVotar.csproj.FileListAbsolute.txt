@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\bin\Debug\ExIdadeParaVotar.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\bin\Debug\ExIdadeParaVotar.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\bin\Debug\ExIdadeParaVotar.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\obj\Debug\ExIdadeParaVotar.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\obj\Debug\ExIdadeParaVotar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\obj\Debug\ExIdadeParaVotar.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\obj\Debug\ExIdadeParaVotar.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExIdadeParaVotar\obj\Debug\ExIdadeParaVotar.pdb

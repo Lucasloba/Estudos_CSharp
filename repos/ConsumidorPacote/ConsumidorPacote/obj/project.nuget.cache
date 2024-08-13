@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "htGtLRx3QikSvKcIacambLJbaeMSPXajgIzMGw3Lg5hmNzJpktn6PDApqAeWHpqS152WTuybor50l9r2K3kvgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DPC\\source\\repos\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DPC\\.nuget\\packages\\bytebank_geradorchavepix\\1.0.0\\bytebank_geradorchavepix.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\bin\Debug\ExAreaCirculo.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\bin\Debug\ExAreaCirculo.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\bin\Debug\ExAreaCirculo.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\obj\Debug\ExAreaCirculo.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\obj\Debug\ExAreaCirculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\obj\Debug\ExAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\obj\Debug\ExAreaCirculo.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExAreaCirculo\obj\Debug\ExAreaCirculo.pdb

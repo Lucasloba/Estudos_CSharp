@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\bin\Debug\ExerciciosPOOAlura.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\bin\Debug\ExerciciosPOOAlura.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\bin\Debug\ExerciciosPOOAlura.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\obj\Debug\ExerciciosPOOAlura.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\obj\Debug\ExerciciosPOOAlura.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\obj\Debug\ExerciciosPOOAlura.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\obj\Debug\ExerciciosPOOAlura.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ExerciciosPOOAlura\obj\Debug\ExerciciosPOOAlura.pdb

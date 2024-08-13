@@ -1,0 +1,9 @@
+obj\Release\Components.wixobj
+obj\Release\Directories.wixobj
+obj\Release\Product.wixobj
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Release\ConsoleApp-Release-x86.msi
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Release\ConsoleApp-Release-x86.wixpdb
+obj\Release\ComponentsGenerated.wixobj
+obj\Release\ConsoleApp1.Installer.wixproj.BindContentsFileListnull.txt
+obj\Release\ConsoleApp1.Installer.wixproj.BindOutputsFileListnull.txt
+obj\Release\ConsoleApp1.Installer.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,2 @@
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Release\ConsoleApp-Release-x86.msi
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Release\ConsoleApp-Release-x86.wixpdb

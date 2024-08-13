@@ -1,0 +1,11 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\bin\Debug\TesteSerializar.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\bin\Debug\TesteSerializar.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\bin\Debug\TesteSerializar.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.csproj.CopyComplete
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\TesteSerializar\obj\Debug\TesteSerializar.pdb

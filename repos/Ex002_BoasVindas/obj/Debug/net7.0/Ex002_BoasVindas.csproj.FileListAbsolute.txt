@@ -1,0 +1,14 @@
+C:\Users\DPC\source\repos\Ex002_BoasVindas\bin\Debug\net7.0\Ex002_BoasVindas.exe
+C:\Users\DPC\source\repos\Ex002_BoasVindas\bin\Debug\net7.0\Ex002_BoasVindas.deps.json
+C:\Users\DPC\source\repos\Ex002_BoasVindas\bin\Debug\net7.0\Ex002_BoasVindas.runtimeconfig.json
+C:\Users\DPC\source\repos\Ex002_BoasVindas\bin\Debug\net7.0\Ex002_BoasVindas.dll
+C:\Users\DPC\source\repos\Ex002_BoasVindas\bin\Debug\net7.0\Ex002_BoasVindas.pdb
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.AssemblyInfoInputs.cache
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.AssemblyInfo.cs
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.dll
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\refint\Ex002_BoasVindas.dll
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.pdb
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\Ex002_BoasVindas.genruntimeconfig.cache
+C:\Users\DPC\source\repos\Ex002_BoasVindas\obj\Debug\net7.0\ref\Ex002_BoasVindas.dll

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\bin\Debug\List_T_Ex.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\bin\Debug\List_T_Ex.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\bin\Debug\List_T_Ex.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\obj\Debug\List_T_Ex.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\obj\Debug\List_T_Ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\obj\Debug\List_T_Ex.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\obj\Debug\List_T_Ex.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\List_T_Ex\obj\Debug\List_T_Ex.pdb

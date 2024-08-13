@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\bin\Debug\ClubeDBV.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\bin\Debug\ClubeDBV.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\bin\Debug\ClubeDBV.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\obj\Debug\ClubeDBV.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\obj\Debug\ClubeDBV.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\obj\Debug\ClubeDBV.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\obj\Debug\ClubeDBV.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\ClubeDBV\obj\Debug\ClubeDBV.pdb

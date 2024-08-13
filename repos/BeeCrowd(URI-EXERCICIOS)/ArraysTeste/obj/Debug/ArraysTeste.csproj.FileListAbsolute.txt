@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\bin\Debug\ArraysTeste.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\bin\Debug\ArraysTeste.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\bin\Debug\ArraysTeste.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\obj\Debug\ArraysTeste.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\obj\Debug\ArraysTeste.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\obj\Debug\ArraysTeste.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\obj\Debug\ArraysTeste.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ArraysTeste\obj\Debug\ArraysTeste.pdb

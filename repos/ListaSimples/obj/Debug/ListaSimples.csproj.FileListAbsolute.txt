@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ListaSimples\bin\Debug\ListaSimples.exe.config
+C:\Users\DPC\source\repos\ListaSimples\bin\Debug\ListaSimples.exe
+C:\Users\DPC\source\repos\ListaSimples\bin\Debug\ListaSimples.pdb
+C:\Users\DPC\source\repos\ListaSimples\obj\Debug\ListaSimples.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ListaSimples\obj\Debug\ListaSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ListaSimples\obj\Debug\ListaSimples.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ListaSimples\obj\Debug\ListaSimples.exe
+C:\Users\DPC\source\repos\ListaSimples\obj\Debug\ListaSimples.pdb

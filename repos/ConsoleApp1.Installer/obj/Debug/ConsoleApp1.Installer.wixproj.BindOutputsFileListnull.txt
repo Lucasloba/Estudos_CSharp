@@ -1,0 +1,2 @@
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Debug\ConsoleApp-Debug-x64.msi
+C:\Users\DPC\source\repos\ConsoleApp1.Installer\bin\Debug\ConsoleApp-Debug-x64.wixpdb

@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\bin\Debug\Ex_17_SIMULADO_POO.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\bin\Debug\Ex_17_SIMULADO_POO.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\bin\Debug\Ex_17_SIMULADO_POO.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\obj\Debug\Ex_17_SIMULADO_POO.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\obj\Debug\Ex_17_SIMULADO_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\obj\Debug\Ex_17_SIMULADO_POO.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\obj\Debug\Ex_17_SIMULADO_POO.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\Ex_17_SIMULADO_POO\obj\Debug\Ex_17_SIMULADO_POO.pdb

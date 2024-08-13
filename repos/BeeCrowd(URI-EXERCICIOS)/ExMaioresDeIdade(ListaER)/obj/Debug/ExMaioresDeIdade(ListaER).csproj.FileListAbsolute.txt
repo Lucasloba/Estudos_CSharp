@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\bin\Debug\ExMaioresDeIdade(ListaER).exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\bin\Debug\ExMaioresDeIdade(ListaER).exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\bin\Debug\ExMaioresDeIdade(ListaER).pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\obj\Debug\ExMaioresDeIdade(ListaER).csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\obj\Debug\ExMaioresDeIdade(ListaER).csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\obj\Debug\ExMaioresDeIdade(ListaER).csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\obj\Debug\ExMaioresDeIdade(ListaER).exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\ExMaioresDeIdade(ListaER)\obj\Debug\ExMaioresDeIdade(ListaER).pdb

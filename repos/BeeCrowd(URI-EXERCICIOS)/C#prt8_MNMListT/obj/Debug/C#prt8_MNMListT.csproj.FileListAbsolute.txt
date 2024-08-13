@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\bin\Debug\C#prt8_MNMListT.exe.config
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\bin\Debug\C#prt8_MNMListT.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\bin\Debug\C#prt8_MNMListT.pdb
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\obj\Debug\C#prt8_MNMListT.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\obj\Debug\C#prt8_MNMListT.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\obj\Debug\C#prt8_MNMListT.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\obj\Debug\C#prt8_MNMListT.exe
+C:\Users\DPC\source\repos\BeeCrowd(URI-EXERCICIOS)\C#prt8_MNMListT\obj\Debug\C#prt8_MNMListT.pdb

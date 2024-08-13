@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "bytebank_GeradorChavePix/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/bytebank_GeradorChavePix.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/bytebank_GeradorChavePix.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bytebank_GeradorChavePix/1.0.0": {
+      "sha512": "jOIJluU9aCRDPU9vnMNgI1hlWHBw2ird5dUZZGXSqBJJQI/5xgLeNQfZ4D3Zw90uNqgme21gYnNv1k3j5q5i2A==",
+      "type": "package",
+      "path": "bytebank_geradorchavepix/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bytebank_geradorchavepix.1.0.0.nupkg.sha512",
+        "bytebank_geradorchavepix.nuspec",
+        "lib/net6.0/bytebank_GeradorChavePix.dll",
+        "lib/net6.0/bytebank_GeradorChavePix.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "bytebank_GeradorChavePix >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DPC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DPC\\source\\repos\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
+      "projectName": "ConsumidorPacote",
+      "projectPath": "C:\\Users\\DPC\\source\\repos\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
+      "packagesPath": "C:\\Users\\DPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DPC\\source\\repos\\ConsumidorPacote\\ConsumidorPacote\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "bytebank_GeradorChavePix": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

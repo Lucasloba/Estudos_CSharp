@@ -1,0 +1,8 @@
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\bin\Debug\Aula3Ex1_Algoritmos_Atribuicao.exe.config
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\bin\Debug\Aula3Ex1_Algoritmos_Atribuicao.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\bin\Debug\Aula3Ex1_Algoritmos_Atribuicao.pdb
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\obj\Debug\Aula3Ex1_Algoritmos_Atribuicao.csproj.AssemblyReference.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\obj\Debug\Aula3Ex1_Algoritmos_Atribuicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\obj\Debug\Aula3Ex1_Algoritmos_Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\obj\Debug\Aula3Ex1_Algoritmos_Atribuicao.exe
+C:\Users\DPC\source\repos\ExerciciosPOOAlura\Aula3Ex1_Algoritmos_Atribuicao\obj\Debug\Aula3Ex1_Algoritmos_Atribuicao.pdb

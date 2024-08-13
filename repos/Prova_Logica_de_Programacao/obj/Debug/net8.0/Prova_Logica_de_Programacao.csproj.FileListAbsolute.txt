@@ -1,0 +1,14 @@
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\bin\Debug\net8.0\Prova_Logica_de_Programacao.exe
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\bin\Debug\net8.0\Prova_Logica_de_Programacao.deps.json
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\bin\Debug\net8.0\Prova_Logica_de_Programacao.runtimeconfig.json
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\bin\Debug\net8.0\Prova_Logica_de_Programacao.dll
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\bin\Debug\net8.0\Prova_Logica_de_Programacao.pdb
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.AssemblyInfoInputs.cache
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.AssemblyInfo.cs
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.csproj.CoreCompileInputs.cache
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.dll
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\refint\Prova_Logica_de_Programacao.dll
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.pdb
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\Prova_Logica_de_Programacao.genruntimeconfig.cache
+C:\Users\DPC\source\repos\Prova_Logica_de_Programacao\obj\Debug\net8.0\ref\Prova_Logica_de_Programacao.dll
